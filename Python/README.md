@@ -2,5 +2,4 @@
 
 ## text
 
-- a
-- b
+Pasta de python em que eu vou documentar meus estudos
